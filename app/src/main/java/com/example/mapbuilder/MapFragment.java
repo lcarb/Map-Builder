@@ -91,7 +91,7 @@ public class MapFragment extends Fragment
 
 
     }
-
+//
     @Override
     public View onCreateView(LayoutInflater inflater,
                              ViewGroup ui, Bundle bundle)
